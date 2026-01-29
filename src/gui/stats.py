@@ -1,6 +1,6 @@
 import sys
 import streamlit as st
-from ml_template import utils
+import gui.utils as utils
 
 st.title("Stats")
 st.write(st.session_state.df.head())

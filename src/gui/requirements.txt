@@ -7,4 +7,3 @@ streamlit
 xgboost
 shap
 scipy
--e ../..
