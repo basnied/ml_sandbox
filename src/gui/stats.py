@@ -1,6 +1,6 @@
 import sys
 import streamlit as st
-import gui.utils as utils
+import utils
 
 st.title("Stats")
 st.write(st.session_state.df.head())
