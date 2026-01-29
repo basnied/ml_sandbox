@@ -1,5 +1,5 @@
 import sys
-sys.path.append('..')
+sys.path.append('../..')
 import streamlit as st
 from ml_template import utils
 
