@@ -3,7 +3,7 @@ scikit-learn
 numpy
 matplotlib
 seaborn
-streamlit
+# streamlit
 xgboost
 shap
 scipy
